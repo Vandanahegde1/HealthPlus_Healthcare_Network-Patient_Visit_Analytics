@@ -50,6 +50,14 @@ Four pages, each built around a different angle on the same data:
 4. **Department Detail** — a drillthrough page for digging into any single department's numbers directly from the other pages
 
 All four pages share cross-page slicers, so filtering by date, clinic, or department on one page carries through to the others.
+<img width="1746" height="795" alt="Page 1 Helathplus Analysis" src="https://github.com/user-attachments/assets/da24cc65-66a1-4678-ac7e-39f8e5713f46" />,
+<img width="1746" height="787" alt="Page 2 Healthplus Analysis" src="https://github.com/user-attachments/assets/9a044689-90ee-4e21-812e-a8d2599fe0f2" />,
+<img width="1747" height="795" alt="Page 3 Healthplus Analysis" src="https://github.com/user-attachments/assets/132aff2c-4a73-42d8-91ca-8ef6b7fcba3a" />,
+<img width="1737" height="790" alt="page 4 Healthplus Analysis" src="https://github.com/user-attachments/assets/d384cce0-a2c3-4fba-87d9-c5b270db1b71" />
+
+
+
+
 
 
 ## A Note on Methodology
