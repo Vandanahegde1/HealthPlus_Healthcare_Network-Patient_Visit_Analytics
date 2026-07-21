@@ -51,7 +51,6 @@ Four pages, each built around a different angle on the same data:
 
 All four pages share cross-page slicers, so filtering by date, clinic, or department on one page carries through to the others.
 
-[Screenshot or link to live Power BI dashboard]
 
 ## A Note on Methodology
 It would have been easy to assume the wait-time/satisfaction link and build a dashboard around confirming it. Testing that assumption directly — and being willing to report that it didn't hold — felt like the more honest and more useful version of this project. A dashboard that only tells you what you expected to hear isn't actually doing much analytical work.
